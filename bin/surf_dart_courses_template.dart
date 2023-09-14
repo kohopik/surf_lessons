@@ -39,7 +39,7 @@ void waitTaxi(PaymentType payment) {
 }
 
 void driveToOffice(PaymentType payment) {
-  // Приехали
+  // Едем
   var drivingTime = 60;
   while (drivingTime != 0) {
     drivingTime -= 1;
