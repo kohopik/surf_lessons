@@ -4,7 +4,7 @@ You can describe your results in any language that is convenient for you, not ju
 
 ## Description
 
-[Describe what you have done]
+2.9 Задание с наследованием
 
 ## How to
 
